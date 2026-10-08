@@ -18,6 +18,7 @@ The complete manufactured-and-packaged kettle footprint is **not calculated**. B
 
 The calculation follows `A s = f`, `g = B s`, then `h = C g`. An independent iterative solve agrees with the sparse LU solution to within approximately 7 × 10⁻¹⁴ in activity.
 
+- [Korean HTML report: charts, material filters, calculations, verification and limitations](kettle_lca/reports/kettle-lca-report.html) — download and open in a browser; self-contained and works offline.
 - [Full study report: methods, assumptions, sources, limitations and reproduction](kettle_lca/README.md)
 - [Material contributions](kettle_lca/results/independent-2026-10-08/contributions.csv)
 - [Process activity](kettle_lca/results/independent-2026-10-08/process_activity.csv)
@@ -40,5 +41,14 @@ python scripts/document.py
 ```
 
 The numerical archive is retrieved by a pinned public revision and checked against its SHA-256. Large original source archives and installed libraries are excluded from this repository; their retrieval instructions are included. The finalized independent numerical outputs are preserved under `results/independent-2026-10-08/`.
+
+To regenerate the Korean HTML report and SVG chart from the saved baseline, install the optional report dependencies and run:
+
+```shell
+python -m pip install --target .deps -r requirements-report.txt
+python scripts/html_report.py
+```
+
+The report checks the baseline output hashes before rendering. It does not recalculate or modify the numerical model. The baseline tag and calculation commit remain preserved.
 
 Third-party inventory data retain their original source terms. This repository does not assert a blanket license over those datasets.
