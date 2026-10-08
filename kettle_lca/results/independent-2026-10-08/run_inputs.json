@@ -1,0 +1,6 @@
+{
+  "data/bom.csv": "3c32aae6fce473c8758a754d55ef26c0761273d846417c211c13d77488b3ff8a",
+  "data/mapping.json": "775cf978d3ada983b094fde2c8bb69b1597b981cf6bfe391312777dc94de98cf",
+  "data/sources/commons-merged-hybrid.zip": "4cf9bfdc5a8c9a531f9a6f3ba681f18014f25cf9ee7033c96e720a689fc4d13d",
+  "scripts/calculate.py": "c3a3d80b963985527be5a19884bc5e83c7dd9ef4767c757e271fb8739638d993"
+}

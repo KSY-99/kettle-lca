@@ -1,0 +1,13 @@
+﻿material,mass_g,scope,gwp100_characterized_subtotal_kg_co2e,missing_provider_exchange_count,unlinked_product_inputs,unlinked_waste_outputs,status,match_type
+Stainless steel,186.0,Kettle,1.4482448087971007,22,2,20,partial: upstream gaps,grade proxy
+Brass,20.25,Kettle,,,,,not calculated: missing material provider,missing
+Copper,15.0,Kettle,0.1099640322204316,70636,0,70636,partial: upstream gaps,monetary proxy
+Polypropylene (PP),350.25,Kettle,0.7526507840391055,71318,597,70721,partial: upstream gaps,resin match
+Polyvinyl chloride (PVC),43.5,Kettle,0.09210007115085096,66504,662,65842,partial: upstream gaps,grade proxy
+"Nylon, grade unspecified",49.5,Kettle,0.1464177926818662,70470,0,70470,partial: upstream gaps,grade and monetary proxy
+Polyoxymethylene (POM),9.75,Kettle,,,,,not calculated: missing material provider,missing
+Polycarbonate (PC),6.75,Kettle,0.0843868164713956,70324,0,70324,partial: upstream gaps,monetary proxy
+Acrylonitrile-butadiene-styrene (ABS),30.0,Kettle,0.09352113702920722,52696,584,52112,partial: upstream gaps,resin match
+Silicone,12.0,Kettle,,,,,not calculated: missing material provider,missing
+LDPE packaging foil,6.3,Packaging,0.014999579048716391,64489,565,63924,partial: upstream gaps,resin only
+Cardboard packaging,131.5,Packaging,0.28331629323540763,70287,663,69624,partial: upstream gaps,packaging proxy

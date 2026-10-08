@@ -1,0 +1,72 @@
+[
+  {
+    "check": "analytical cyclic two-process benchmark",
+    "passed": true,
+    "detail": [
+      1.1111111111111112,
+      0.5555555555555556
+    ]
+  },
+  {
+    "check": "analytical inventory and characterization",
+    "passed": true,
+    "detail": 60.0
+  },
+  {
+    "check": "source conditional formula",
+    "passed": true,
+    "detail": "6 expected"
+  },
+  {
+    "check": "formula evaluator rejects code execution",
+    "passed": true,
+    "detail": "AST whitelist"
+  },
+  {
+    "check": "independent Neumann iteration converged",
+    "passed": true,
+    "detail": {
+      "iterations": 48,
+      "delta": 5.885569809294111e-14
+    }
+  },
+  {
+    "check": "LU versus independent iterative activity",
+    "passed": true,
+    "detail": 6.919465000976288e-14
+  },
+  {
+    "check": "stored elementary inventory",
+    "passed": true,
+    "detail": "B @ s matches saved g"
+  },
+  {
+    "check": "stored characterized subtotal",
+    "passed": true,
+    "detail": "C @ g matches saved h"
+  },
+  {
+    "check": "component contributions sum",
+    "passed": true,
+    "detail": "component inventories sum to total inventory"
+  },
+  {
+    "check": "BOM mass balance",
+    "passed": true,
+    "detail": "723 g + 137.8 g = 860.8 g"
+  },
+  {
+    "check": "missing full result retained as null",
+    "passed": true,
+    "detail": "No numerical zero substituted for a complete result"
+  },
+  {
+    "check": "three missing materials remain explicit",
+    "passed": true,
+    "detail": [
+      "Brass",
+      "Polyoxymethylene (POM)",
+      "Silicone"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+data/sources/*
+!data/sources/merged-download-manifest.json
+.deps/
+__pycache__/

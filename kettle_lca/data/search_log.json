@@ -1,0 +1,325 @@
+[
+  {
+    "material": "Stainless steel",
+    "queries": [
+      "stainless"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "34897ebd-aa3d-347c-91ee-876c3f835fdb",
+        "name": "Steel; stainless 304; scrap",
+        "version": "00.01.014",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      },
+      {
+        "id": "49f5324b-fc33-36e9-b5af-3c80d73492bd",
+        "name": "Steel; stainless 304; flat rolled coil",
+        "version": "00.01.014",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      },
+      {
+        "id": "8560388b-7ea1-38b7-befc-fd25d5deb450",
+        "name": "Steel; stainless 304; quarto plate",
+        "version": "00.01.015",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Brass",
+    "queries": [
+      "brass",
+      "copper zinc",
+      "copper-zinc"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": []
+  },
+  {
+    "material": "Copper",
+    "queries": [
+      "copper"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "b5567b2b-1568-35b3-9ce6-0d1829c06858",
+        "name": "Copper, nickel, lead, and zinc",
+        "version": "02.00.001",
+        "tags": [
+          "USEEIO_v2--v1.2022-06.0"
+        ]
+      },
+      {
+        "id": "f0810c41-81cd-3dea-83b2-7a66c7fd9362",
+        "name": "Copper sulfate; chemical reaction process; at processing plant",
+        "version": "01.00.000",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      },
+      {
+        "id": "42243e2f-86fb-34d3-b513-76b04128c9bf",
+        "name": "Secondary copper products",
+        "version": "02.00.001",
+        "tags": [
+          "USEEIO_v2--v1.2022-06.0"
+        ]
+      },
+      {
+        "id": "a3d120f1-c075-3217-8378-0dfb5fcd5472",
+        "name": "Copper, gold and silver concentrates",
+        "version": "02.00.001",
+        "tags": [
+          "USEEIO_v2--v1.2022-06.0"
+        ]
+      },
+      {
+        "id": "6373ec73-ca57-47bd-8284-2f3cc25b8637",
+        "name": "Copper; at storage Bridge; USLCI to USEEIO",
+        "version": "00.00.006",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Polypropylene (PP)",
+    "queries": [
+      "polypropylene"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+        "name": "Polypropylene, PP; virgin resin; at plant",
+        "version": "00.01.012",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      },
+      {
+        "id": "185648c2-334e-419c-bf16-bb95e258f6bb",
+        "name": "Recycled postconsumer polypropylene, PP, pellet; at plant",
+        "version": "00.00.020",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      },
+      {
+        "id": "18c37a18-0ddd-3944-b9b1-458410215233",
+        "name": "Thermoforming; rigid polypropylene part; at plant",
+        "version": "00.00.018",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      },
+      {
+        "id": "89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870",
+        "name": "Injection molding; rigid polypropylene part; at plant",
+        "version": "00.00.022",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Polyvinyl chloride (PVC)",
+    "queries": [
+      "polyvinyl chloride"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+        "name": "Polyvinyl chloride resin, PVC; suspension grade; at plant",
+        "version": "00.01.015",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      },
+      {
+        "id": "da27970f-ada2-4360-ae98-d9b568e672e3",
+        "name": "Municipal solid waste landfilling of polyvinyl chloride, PVC",
+        "version": "00.00.025",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Nylon, grade unspecified",
+    "queries": [
+      "nylon",
+      "polyamide"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "052c051b-b37f-4f00-9fe8-f5b2764b69c1",
+        "name": "Nylon 66 Bridge; USLCI to USEEIO",
+        "version": "00.00.016",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      },
+      {
+        "id": "a2174501-418e-4b2e-9dbd-fa81f5f0bcc7",
+        "name": "Nylon 6 Bridge; USLCI to USEEIO",
+        "version": "00.00.012",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Polyoxymethylene (POM)",
+    "queries": [
+      "polyoxymethylene",
+      "polyacetal",
+      "polyformaldehyde",
+      "acetal"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": []
+  },
+  {
+    "material": "Polycarbonate (PC)",
+    "queries": [
+      "polycarbonate"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "531f7547-3175-4114-842a-cf358fb4a10b",
+        "name": "Polycarbonate Bridge; USLCI to USEEIO",
+        "version": "00.00.012",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Acrylonitrile-butadiene-styrene (ABS)",
+    "queries": [
+      "acrylonitrile-butadiene-styrene"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "0e42a306-ee2d-362e-8bc3-580000096459",
+        "name": "Acrylonitrile-butadiene-styrene, ABS; copolymer resin; at plant",
+        "version": "00.01.010",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Silicone",
+    "queries": [
+      "silicone",
+      "siloxane",
+      "pdms"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": []
+  },
+  {
+    "material": "LDPE packaging foil",
+    "queries": [
+      "low-density polyethylene",
+      "low density polyethylene"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+        "name": "Linear low-density polyethylene, LLDPE; virgin resin; at plant",
+        "version": "00.01.012",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      },
+      {
+        "id": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+        "name": "Low-density polyethylene, LDPE; virgin resin; at plant",
+        "version": "00.01.012",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      },
+      {
+        "id": "26f39b7c-389c-4903-8f09-6ef5e95876cc",
+        "name": "Stretch film, linear low density polyethylene, LLDPE; at plant",
+        "version": "00.00.017",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      }
+    ]
+  },
+  {
+    "material": "Cardboard packaging",
+    "queries": [
+      "cardboard",
+      "corrugated"
+    ],
+    "search_scope": "process names in downloaded Commons Merged Hybrid archive",
+    "candidates": [
+      {
+        "id": "5639b671-e43d-30f0-a49e-629a734ef1ea",
+        "name": "Cardboard",
+        "version": "02.00.001",
+        "tags": [
+          "USEEIO_v2--v1.2022-06.0"
+        ]
+      },
+      {
+        "id": "1100ae48-ef31-3216-9ce3-e4d1b76fbdf9",
+        "name": "Cardboard containers",
+        "version": "02.00.001",
+        "tags": [
+          "USEEIO_v2--v1.2022-06.0"
+        ]
+      },
+      {
+        "id": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+        "name": "Corrugated product; average production; at mill",
+        "version": "00.01.008",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      },
+      {
+        "id": "9c10be0f-e38e-4551-b8b5-eef65fa27dcc",
+        "name": "Corrugated product; 100% recycled; at mill",
+        "version": "00.01.010",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-06.1"
+        ]
+      },
+      {
+        "id": "9da15ed3-884b-4007-bf5e-7dd1bc4808b8",
+        "name": "Combustion of corrugated containers",
+        "version": "00.00.038",
+        "tags": [
+          "USLCI_Database_Public--v1.2026-09.0"
+        ]
+      }
+    ]
+  }
+]

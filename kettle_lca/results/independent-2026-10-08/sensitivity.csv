@@ -1,0 +1,4 @@
+﻿scenario,subtotal_kg_co2e,delta_kg_co2e
+Baseline partial material supply,3.025601314674082,0
+PP purchase yield 95%; other inputs unchanged; scrap treatment excluded,3.065214513834035,0.03961319915995287
+"Nylon 66 monetary bridge instead of nylon 6; same plastics sector, different published price",3.0528418341746693,0.027240519500587368

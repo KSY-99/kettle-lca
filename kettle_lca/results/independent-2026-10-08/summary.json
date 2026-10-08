@@ -1,0 +1,52 @@
+{
+  "run_id": "independent-2026-10-08",
+  "status": "partial material-supply calculation; not a complete factory-gate footprint",
+  "kettle_mass_g": 723.0,
+  "packaging_mass_g": 137.8,
+  "total_mass_g": 860.8,
+  "mapped_mass_g": 818.8,
+  "missing_materials": [
+    "Brass",
+    "Polyoxymethylene (POM)",
+    "Silicone"
+  ],
+  "complete_factory_gate_gwp100_kg_co2e": null,
+  "characterized_material_supply_subtotal_kg_co2e": 3.025601314674082,
+  "process_nodes": 1422,
+  "elementary_flow_direction_rows": 5273,
+  "linked_exchanges": 89833,
+  "missing_provider_exchanges": 72896,
+  "characterized_flow_rows": 118,
+  "unlinked_product_input_exchanges": 695,
+  "unlinked_waste_output_exchanges": 72201,
+  "negative_activity_nodes": 18,
+  "uncharacterized_flow_rows": 5155,
+  "matrix_residual_max_abs": 2.1492292441943214e-16,
+  "contribution_sum_error": 4.440892098500626e-16,
+  "method": {
+    "@type": "ImpactCategory",
+    "@id": "a6206006-65bc-395c-8dc9-f12262f45a04",
+    "name": "AR6-100",
+    "description": "AR6-100 is built with LCIA Formatter v1.4.0 for use with IPCC\n",
+    "category": "IPCC",
+    "version": "01.04.001",
+    "lastChange": "2026-09-30T18:32:33.458Z",
+    "refUnit": "kg CO2 eq",
+    "source": {
+      "@type": "Source",
+      "@id": "62b75645-5be0-3b4a-a3d3-43afa55b2c3b",
+      "name": "IPCC AR6"
+    },
+    "direction": "OUTPUT",
+    "parameters": []
+  },
+  "versions": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.3.5",
+    "scipy": "1.18.1"
+  },
+  "formula_exchange_count": 766,
+  "max_formula_cache_difference": 0.0,
+  "uncertainty": "not calculated",
+  "assumed_yield": 1.0
+}

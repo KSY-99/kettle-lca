@@ -1,0 +1,268 @@
+[
+  {
+    "id": "00feb6d9-9282-3bcf-9d18-7b040f516935",
+    "name": "IPCC",
+    "version": "01.04.000",
+    "categories": [
+      {
+        "@type": "ImpactCategory",
+        "@id": "7d05b807-2caa-3cd9-b55c-399d3b820cbc",
+        "name": "AR5-100",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "855d82e0-0b4d-3b9e-84cb-b064486b5423",
+        "name": "AR5-20",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "a6206006-65bc-395c-8dc9-f12262f45a04",
+        "name": "AR6-100",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "80f73b5d-0b71-3193-b8a6-04857897dec1",
+        "name": "AR6-20",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "4bb30cb7-394d-37a7-9c60-c0bb9d401316",
+        "name": "AR6-500",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "a812e82a-4346-3097-9b78-ddd75a0f78ea",
+        "name": "AR6-500 Net Biogenic",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "6df777d1-20c5-30c8-9da6-560775d552dd",
+        "name": "AR6-20 Net Biogenic",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "8e95c974-7a83-36f4-b050-58b3118a7be0",
+        "name": "AR5-100 Net Biogenic",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "deb17986-0725-3add-b0e2-3e2eef802631",
+        "name": "AR6-100 Net Biogenic",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "97c3c9b1-83ac-3e37-b6ca-12d0ea832a8d",
+        "name": "AR5-20 Net Biogenic",
+        "category": "IPCC",
+        "refUnit": "kg CO2 eq"
+      }
+    ]
+  },
+  {
+    "id": "52ce6d64-4e91-347e-8c0b-4b616b2c0339",
+    "name": "TRACI 2.2",
+    "version": "01.02.001",
+    "categories": [
+      {
+        "@type": "ImpactCategory",
+        "@id": "9eaaaf3f-a00e-3d30-8c2f-80c23fdab4c8",
+        "name": "Freshwater ecotoxicity",
+        "category": "TRACI 2.2",
+        "refUnit": "CTUeco"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "8fc76fc7-59d9-39d8-9fa3-1e3f50b52e73",
+        "name": "Human health - cancer",
+        "category": "TRACI 2.2",
+        "refUnit": "CTUcancer"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "1890777f-ff60-3f9e-b2a3-edc8a4449ec9",
+        "name": "Human health - non-cancer",
+        "category": "TRACI 2.2",
+        "refUnit": "CTUnoncancer"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "21f298cd-2ce4-3554-90ad-833432a0680b",
+        "name": "Smog formation",
+        "category": "TRACI 2.2",
+        "refUnit": "kg O3 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "85b7bd26-dc4c-3180-a984-af9cada7afb5",
+        "name": "Global warming",
+        "category": "TRACI 2.2",
+        "refUnit": "kg CO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "eecde423-b6f6-3385-9f4f-109d7dda55a2",
+        "name": "Ozone depletion",
+        "category": "TRACI 2.2",
+        "refUnit": "kg CFC-11 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "9240a95d-d4d9-3e16-a56d-0daf70c869ea",
+        "name": "Human health - particulate matter",
+        "category": "TRACI 2.2",
+        "refUnit": "PM 2.5 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "2516eb2a-a9e8-3ace-a34d-d931e210a62a",
+        "name": "Acidification",
+        "category": "TRACI 2.2",
+        "refUnit": "kg SO2 eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "d77b8e63-bb21-3ec4-9d7d-5d9994df6d62",
+        "name": "Eutrophication (Freshwater)",
+        "category": "TRACI 2.2",
+        "refUnit": "kg P eq"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "d12fa29f-61c1-371d-8a06-f4956e891495",
+        "name": "Eutrophication (Marine)",
+        "category": "TRACI 2.2",
+        "refUnit": "kg N eq"
+      }
+    ]
+  },
+  {
+    "id": "8b5af0c8-3435-39d4-9333-b077766022eb",
+    "name": "FEDEFL Inventory",
+    "version": "01.01.004",
+    "categories": [
+      {
+        "@type": "ImpactCategory",
+        "@id": "47e2895f-d230-3a54-b3df-e38a50e0bbb5",
+        "name": "freshwater_resources",
+        "category": "FEDEFL Inventory",
+        "refUnit": "kg"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "49fce6e9-6042-3f04-b58a-588a14dc8098",
+        "name": "water_resources",
+        "category": "FEDEFL Inventory",
+        "refUnit": "kg"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "34f0bb2d-79bc-3c4c-adac-8fcefdf02bec",
+        "name": "land_use",
+        "category": "FEDEFL Inventory",
+        "refUnit": "m2*a"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "52cae01c-353e-3c1a-a01d-b519d99078c2",
+        "name": "USGS_mineral_resources",
+        "category": "FEDEFL Inventory",
+        "refUnit": "kg"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "e08578e0-eb8a-3c30-a1a1-9bbfaa7f8021",
+        "name": "energy",
+        "category": "FEDEFL Inventory",
+        "refUnit": "MJ"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "d4028fc6-1756-3033-bad4-606e7f30ed49",
+        "name": "renewable_energy",
+        "category": "FEDEFL Inventory",
+        "refUnit": "MJ"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "59cab5ee-af42-3db1-b4c3-a317136b4ed9",
+        "name": "nonrenewable_energy",
+        "category": "FEDEFL Inventory",
+        "refUnit": "MJ"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "d9c6def5-1d67-3872-9a07-951196d3b30a",
+        "name": "USDA_CUS_pesticides",
+        "category": "FEDEFL Inventory",
+        "refUnit": "kg"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "772ef888-b510-3048-bef0-9acdc3f44c31",
+        "name": "HAP",
+        "category": "FEDEFL Inventory",
+        "refUnit": "kg"
+      }
+    ]
+  },
+  {
+    "id": "bb205cad-3c8e-49bb-865d-c4f6fb807724",
+    "name": "USEEIO - LCIA Method",
+    "version": "02.00.001",
+    "categories": [
+      {
+        "@type": "ImpactCategory",
+        "@id": "21f680ec-d6a2-30f6-90ae-040e50aabed3",
+        "name": "Commercial Construction and Demolition Debris",
+        "category": "USEEIO - LCIA Method",
+        "refUnit": "kg"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "2b38bac9-fde5-3fd1-858b-0c9a3b87a7ca",
+        "name": "Value Added",
+        "category": "USEEIO - LCIA Method",
+        "refUnit": "$"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "72507bda-f356-3388-ab09-86ca8e62dd10",
+        "name": "Jobs Supported",
+        "category": "USEEIO - LCIA Method",
+        "refUnit": "jobs"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "6cfdfce7-7192-3bda-a762-e39495847b84",
+        "name": "Commercial Municipal Solid Waste",
+        "category": "USEEIO - LCIA Method",
+        "refUnit": "kg"
+      },
+      {
+        "@type": "ImpactCategory",
+        "@id": "b79796ee-0270-32ab-804f-eb57876b1ddb",
+        "name": "Commercial RCRA Hazardous Waste",
+        "category": "USEEIO - LCIA Method",
+        "refUnit": "kg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "Stainless steel": {"process_id":"49f5324b-fc33-36e9-b5af-3c80d73492bd","status":"grade proxy","rationale":"304 flat rolled coil; grade unspecified in BOM. European production technology with American upstream conditions; largely cumulative inventory despite UNIT_PROCESS label."},
+  "Brass": {"process_id":null,"status":"missing","rationale":"No brass production match found. Copper alone is not brass; composition and fabrication are unspecified."},
+  "Copper": {"process_id":"6373ec73-ca57-47bd-8284-2f3cc25b8637","status":"monetary proxy","rationale":"USLCI published physical-to-USEEIO bridge; inspect price and sector limitations."},
+  "Polypropylene (PP)": {"process_id":"2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb","status":"resin match","rationale":"Virgin PP resin; excludes conversion into components."},
+  "Polyvinyl chloride (PVC)": {"process_id":"3dbccdda-2014-4239-ad1f-4e15c034942b","status":"grade proxy","rationale":"Suspension-grade PVC resin. Compounding, plasticizers and component extrusion excluded."},
+  "Nylon, grade unspecified": {"process_id":"a2174501-418e-4b2e-9dbd-fa81f5f0bcc7","status":"grade and monetary proxy","rationale":"Assume nylon 6 for this scenario; USLCI published USEEIO bridge. Nylon 66 retained as alternative, not inferred from BOM."},
+  "Polyoxymethylene (POM)": {"process_id":null,"status":"missing","rationale":"No POM process match found; PP or generic plastic is not substituted without a defensible inventory or price."},
+  "Polycarbonate (PC)": {"process_id":"531f7547-3175-4114-842a-cf358fb4a10b","status":"monetary proxy","rationale":"Published USLCI bridge uses PC sheet price with a general plastics sector; does not establish molded PC component impacts."},
+  "Acrylonitrile-butadiene-styrene (ABS)": {"process_id":"0e42a306-ee2d-362e-8bc3-580000096459","status":"resin match","rationale":"ABS copolymer resin; component molding excluded."},
+  "Silicone": {"process_id":null,"status":"missing","rationale":"No silicone elastomer inventory match found; silicon metal and other plastics are not chemically equivalent."},
+  "LDPE packaging foil": {"process_id":"6a12cba1-889d-4515-90f8-89feb8d662f2","status":"resin only","rationale":"LDPE resin only; foil extrusion/conversion excluded. LLDPE stretch film rejected as a different polymer."},
+  "Cardboard packaging": {"process_id":"226ed3c2-e020-4c95-b1fc-4559fc2d18ac","status":"packaging proxy","rationale":"Average corrugated product at mill; assume corrugated cardboard rather than unspecified solid board. Kettle-box converting/printing excluded."}
+}
